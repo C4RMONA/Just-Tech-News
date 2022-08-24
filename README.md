@@ -9,7 +9,7 @@ Just tech news is a blog-style website for developers; where users are able to p
 - [Installation](#Installation)
 - [Deployed Link](#Deployed-Link)
 - [Usage](#Usage)
-- [Contributing](#Contributing)
+- [Contributions](#Contributions)
 
 
 ## Installation
